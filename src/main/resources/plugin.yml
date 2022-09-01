@@ -1,0 +1,8 @@
+name: JMenuAPI
+version: ${project.version}
+main: me.jmang.japi.jmenuapi.JMenuAPI
+api-version: 1.17
+prefix: JMenuAPI
+load: STARTUP
+authors: [ jmang ]
+description: The best menu API ever!
